@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Halaman Login](./assets/ScreenshotHasil/LoginPage.png)
+![Halaman Login](assets/ScrenshotHasil/LoginPage.png)
